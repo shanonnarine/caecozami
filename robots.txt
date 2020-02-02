@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://anohvahgah.whatsbc.com/sitemap.xml
